@@ -1,4 +1,4 @@
-# Chicago-Bike-Data-Project
+# Chicago Casual to Members Project
 ![](https://github.com/Offthecharts89/Odmandakh_Portfolio/blob/main/Images/Excel%20Logo4.png)![](https://github.com/Offthecharts89/Odmandakh_Portfolio/blob/main/Images/R%20Logo%20small.png)
 ### Summary
 * Working with dataset with 100 million datapoints.  
@@ -53,10 +53,21 @@ As we can see from our graph casual riders ride for longer in all metrics. This 
 For all of our rides in the past year, 45% are casual rides. There is a big market for this and having a our marketing be targeted at the 45% of casual riders will help us not waste funds on the 55% of riders that are already members.
 
 ### Comparing Casual Riders vs Members Riders on Weekdays
+![](https://github.com/Offthecharts89/Odmandakh_Portfolio/blob/main/Images/Casual%20Weekday.png)
 
+Again with causal rider we see the same trend of rides peaking in the weekend.
+![](https://github.com/Offthecharts89/Odmandakh_Portfolio/blob/main/Images/Member%20Weekday.png)
+
+ The interesting observation with member riders is that they peak on Tuesday and Wednesday but then gradually decrease. The weekend has the lowest number of member riders.
+ 
+ ![](https://github.com/Offthecharts89/Odmandakh_Portfolio/blob/main/Images/Member%20vs%20Casual%20Weekday%20small.png)
+
+Looking at casual and members rides directly we can see that members riders are much more consistent in their routines while casual riders really look forward to the weekend to use their bikes. With casual riders even surpassing member riders during the weekend and reaching the highest high in terms of number of rides. I can confidently say that creating a weekend package deal will be primarily targeting casual riders and leading them to become half members.
+
+### Comparing Casual Riders vs Members Riders by Month
 ![](https://github.com/Offthecharts89/Odmandakh_Portfolio/blob/main/Images/Casual%20vs%20Member%20Month.png)
 
-Casual Riders are much more seasonal in their behaviour. The weather plays a big factor for them as casual rider dip below the bar in the winter months and even pass the bar in the summer months. While member riders are much more consistent. They stay within the bars for most of the year. I can also confidently say that creating a summer package for casual riders to enjoy will boost the companies revenue by creating bi-annual members that can lead onto to becoming full members in the future. 
+Again we can see the same story. Casual Riders are much more seasonal in their behaviour. The weather plays a big factor for them as casual rider dip below the bar in the winter months and even pass the bar in the summer months. While member riders are much more consistent. They stay within the bars for most of the year. I can also confidently say that creating a summer package for casual riders to enjoy will boost the companies revenue by creating bi-annual members that can lead onto to becoming full members in the future. 
 
 ## Top Three Recommendations
 
